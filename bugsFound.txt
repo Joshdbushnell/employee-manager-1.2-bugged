@@ -1,0 +1,1 @@
+When an employee card is modified it is entering '-'s inbetween that characters causing errors. 
